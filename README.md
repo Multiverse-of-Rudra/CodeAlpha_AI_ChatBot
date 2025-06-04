@@ -11,13 +11,6 @@ This project is a smart AI-powered chatbot built using **FastAPI** (Python) and 
 - 🔐 API Key managed via `.env` for security
 - 🔁 Seamless frontend-backend integration
 
----
-
-## 🖼️ Screenshot
-
-> *(Add a screenshot of your chatbot UI here)*
-
----
 
 ## 🗂️ Project Structure
 
